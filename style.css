@@ -16,6 +16,13 @@ button{
     font-weight: bold;
     cursor: pointer;
 }
+}
+#t_image{
+    width: 100%;
+}
+#telegram{
+    font-size: 2rem;
+}
 button:hover{
     background-color: hsla(240, 60%, 42%, 0.973);
 }
