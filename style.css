@@ -18,10 +18,10 @@ button{
 }
 }
 #t_image{
-    width: 30%;
+  width: 100%;
 }
 #telegram{
-   width: 100%;
+   width: 40%;
 }
 button:hover{
     background-color: hsla(240, 60%, 42%, 0.973);
