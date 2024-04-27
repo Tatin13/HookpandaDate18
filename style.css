@@ -47,7 +47,13 @@ body{
 }
 #telegram{
     width: 30%;
+    border: none;
 }
 #t_image{
     width: 100%;
+}
+#myH2{
+    background-color: green;
+    color: white;
+    font-weight: bold;
 }
