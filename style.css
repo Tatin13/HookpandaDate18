@@ -17,11 +17,12 @@ button{
     cursor: pointer;
 }
 
-#t_image{
-  width: 50%;
-}
+
 #telegram{
    width: 100%;
+}
+#t_image{
+  width: 50%;
 }
 button:hover{
     background-color: hsla(240, 60%, 42%, 0.973);
